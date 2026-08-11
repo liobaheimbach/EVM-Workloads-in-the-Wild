@@ -1,0 +1,14 @@
+{
+  "ethereum": {
+    "rpc_url": "YOUR_ETHEREUM_RPC_URL",
+    "rpc_tracing": "YOUR_ETHEREUM_RPC_URL",
+    "chain_id": 1,
+    "name": "Ethereum Mainnet"
+  },
+  "base": {
+    "rpc_url": "YOUR_BASE_RPC_URL",
+    "rpc_tracing": "YOUR_BASE_RPC_URL",
+    "chain_id": 8453,
+    "name": "Base"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "base": {
+    "rpc_url": "YOUR_BASE_RPC_URL"
+  },
+  "ethereum": {
+    "rpc_url": "YOUR_ETHEREUM_RPC_URL"
+  }
+}
